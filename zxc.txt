@@ -1,0 +1,18 @@
+D:\pyapps\PlayMarket\venv\Scripts\python.exe D:/pyapps/PlayMarket/main.py
+[[
+["manga",null,[null,null,null,null,[null,null,"/store/search?q\u003dmanga\u0026c\u003dapps"]],null,null,["CBSqARUKEwiH37mIr4b8AhWL3y0KHZDKBN8\u003d"]],
+["manga reader",null,[null,null,null,null,[null,null,"/store/search?q\u003dmanga+reader\u0026c\u003dapps"]],null,null,["CBSqARUKEwif37mIr4b8AhWL3y0KHZDKBN8\u003d"]],
+["manigraf",null,[null,null,null,null,[null,null,"/store/search?q\u003dmanigraf\u0026c\u003dapps"]],null,null,["CBSqARUKEwiv37mIr4b8AhWL3y0KHZDKBN8\u003d"]],
+["man playground",null,[null,null,null,null,[null,null,"/store/search?q\u003dman+playground\u0026c\u003dapps"]],null,null,["CBSqARUKEwi737mIr4b8AhWL3y0KHZDKBN8\u003d"]],
+["manga viewer",null,[null,null,null,null,[null,null,"/store/search?q\u003dmanga+viewer\u0026c\u003dapps"]],null,null,["CBSqARUKEwjI37mIr4b8AhWL3y0KHZDKBN8\u003d"]]],
+["CBSqARUKEwjZ37mIr4b8AhWL3y0KHZDKBN8\u003d"],[[null,[[172800],null,[604800]]]
+]]
+
+
+
+
+["cat fred evil pet",null,[null,null,null,null,[null,null,"/store/search?q\u003dcat+fred+evil+pet\u0026c\u003dapps"]],null,null,["CBSqARUKEwisx8Hxr4b8AhV+xcoAHcMzC/k\u003d"]],
+["cat simulator",null,[null,null,null,null,[null,null,"/store/search?q\u003dcat+simulator\u0026c\u003dapps"]],null,null,["CBSqARUKEwjRx8Hxr4b8AhV+xcoAHcMzC/k\u003d"]],
+["cat runner",null,[null,null,null,null,[null,null,"/store/search?q\u003dcat+runner\u0026c\u003dapps"]],null,null,["CBSqARUKEwjbx8Hxr4b8AhV+xcoAHcMzC/k\u003d"]],
+["cat ruletaka 18",null,[null,null,null,null,[null,null,"/store/search?q\u003dcat+ruletaka+18\u0026c\u003dapps"]],null,null,["CBSqARUKEwjmx8Hxr4b8AhV+xcoAHcMzC/k\u003d"]],
+["catwar",null,[null,null,null,null,[null,null,"/store/search?q\u003dcatwar\u0026c\u003dapps"]],null,null,["CBSqARUKEwjux8Hxr4b8AhV+xcoAHcMzC/k\u003d"]]],
