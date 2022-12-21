@@ -1,0 +1,13 @@
+.body {
+    font-family: Roboto, sans-serif;
+    color: red;
+}
+
+
+.heart {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

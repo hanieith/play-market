@@ -2,7 +2,36 @@
 
 
 {% block content %}
-<H1 class="text-center">Hello world</H1>
+    <section class="heart">
+        <div class="container">
+            <div class="row" style="height: 100vh;">
+                <div class="heart">
+                    <div class="card p-3">
+                        <h5 class="text-center">Print words for search</h5>
+                        <div class="card-body" style="max-width: 100%">
+                            <form method="POST" action="#">
+                                {%  csrf_token %}
+                                <div class="mb-3">
+                                    <input type="text" class="form-control" id="words" name="Words"
+                                           placeholder="Words">
+                                </div>
+                                <select class="form-select mb-3" aria-label="Default select example" id="Country" name="Country">
+                                    <option selected>Select Country</option>
+                                    <option value="ru">ru</option>
+                                </select>
+                                <select class="form-select mb-3" aria-label="Default select example" id="Language" name="Language">
+                                    <option selected>Select Language</option>
+                                    <option value="us">us</option>
+                                </select>
+                                <div class="text-center">
+                                    <button class="btn btn-primary" type="submit">Send words</button>
+                                </div>
+                            </form>
 
-
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 {% endblock %}
